@@ -1,7 +1,6 @@
 # HSE Lazy FCA Classifier Project
 
-🔗 This project is based on the [Lazy FCA classifier]((https://gitlab.com/Al_Toretto/lazy_fca_learning)
-), implemented by Mr. A. Tomat
+🔗 This project is based on the [Lazy FCA classifier](https://gitlab.com/Al_Toretto/lazy_fca_learning), implemented by Mr. A. Tomat
 ## Overview
 
 This repository hosts a homework project that implements and evaluates a **Lazy Formal Concept Analysis (Lazy FCA) classifier** and several of its novel modifications. The project focuses on classifying data from an **employee dataset**, providing a comprehensive comparison against popular machine learning baselines.

@@ -18,7 +18,7 @@ This repository hosts a homework project that implements and evaluates a **Lazy 
 | `Graphix.ipynb` | **Notebook** | Exploratory data analysis (EDA): Visual checks, feature distributions, and quality verification. |
 | `Preprocessing.ipynb` | **Notebook** | Data cleaning and feature engineering pipeline. Generates the final preprocessed dataset. |
 | `Processing.ipynb` | **Notebook** | **Main Experiments:** Implements and runs the Lazy FCA classifier and its modifications. Records primary results. |
-| `Other_classifiers.ipynb` | **Notebook** | **Benchmarking:** Runs five common classification algorithms to compare performance against the Lazy FCA variants. |
+| `Other_classifiers.ipynb` | **Notebook** | **Benchmarking:** Runs seven common classification algorithms to compare performance against the Lazy FCA variants. |
 | `classifiers/` | **Folder** | Implementation of Lazy FCA and its variants. Key files include `executor.py`, `executor_less.py` (optimization), and `executor_soft_match.py` (soft-matching). |
 | `data/` | **Folder** | Contains the original (`Employee.csv`) and the preprocessed/encoded dataset (`cleaned_encoded_data.csv`). |
 

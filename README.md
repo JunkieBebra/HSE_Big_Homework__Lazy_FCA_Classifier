@@ -68,4 +68,4 @@ To ensure successful reproduction, the notebooks must be executed **in sequence*
 ## 👥 Contributors
 
 * Alexander Standrik
-* Dinila Nikishov
+* Danila Nikishov
